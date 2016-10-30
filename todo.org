@@ -1,0 +1,26 @@
+* Wedding
+** DONE Send save the dates
+   CLOSED: [2016-10-05 Wed 13:37]
+** TODO Finish registry
+   SCHEDULED: <2016-10-25 Tue 18:30>
+** DONE Photographer contract
+   CLOSED: [2016-10-18 Tue 22:03]
+
+* Finances
+** DONE Set up recurring payments for navient
+   CLOSED: [2016-09-24 Sat 10:52] SCHEDULED: <2016-09-26 Mon>
+** TODO Explore P2P lending as investment
+** TODO Pay off ring
+   SCHEDULED: <2016-11-17 Thu>
+** DONE Fix rent payment
+   CLOSED: [2016-09-24 Sat 10:50] SCHEDULED: <2016-09-23 Fri>
+* Personal
+** DONE write org notes on sigma algebras
+   CLOSED: [2016-10-05 Wed 13:37] SCHEDULED: <2016-09-21 Wed 20:30>
+** TODO cancel blink
+** TODO back exercises
+   SCHEDULED: <2016-09-24 Sat +1d>
+** DONE review car problem posed by Kenny
+   CLOSED: [2016-09-23 Fri 10:07]
+** DONE call super about hat
+   CLOSED: [2016-10-24 Mon 13:22]
